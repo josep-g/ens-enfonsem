@@ -1,32 +1,26 @@
-# My GitHub Pages
+# Ens enfonsem
 
-This is a GitHub Pages project that showcases my work and provides information about me.
+Benvingut al repositori del projecte "ens enfonsem".
 
-## About
+## Projectes
 
-To learn more about me and my work, please visit the [About](docs/about.md) page.
+Ací tindreu llistat els projectes en un futur pròxim. Mentrestant, podeu visitar la pàgina [Sobre](docs/about.md).
 
-## Documentation
+## Documentació
 
-For detailed documentation and instructions, please refer to the [Documentation](docs/index.md) page.
+Per accedir a una documentació detallada dels projectes, dirigiu-vos a la pàgina de [Documentació](docs/index.md).
 
-## Getting Started
+## Comença
 
-To get started with this project, follow these steps:
+Exemple d'una llista:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repos
 2. Navigate to the project directory: `cd my-github-pages`
 3. Open the project in your preferred code editor.
 4. Customize the `index.html` file to include your own content and styling.
 5. Update the `docs/index.md` and `docs/about.md` files with your own information.
-6. Commit and push your changes to the repository.
-7. Enable GitHub Pages in the repository settings.
-8. Your GitHub Pages site will be available at `<username>.github.io/my-github-pages`.
+6. Commit and push your changes to the reposito
 
-## Contributing
+## Contribueix
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Per favor, si tens cap suggeriments, podeu obrir una 'issue' o enviar una 'pull request' (encara que açò últim encara no ho sabem gestionar).
