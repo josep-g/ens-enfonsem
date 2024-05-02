@@ -6,6 +6,8 @@ Benvingut al repositori del projecte "ens enfonsem".
 
 Ací tindreu llistat els projectes en un futur pròxim. Mentrestant, podeu visitar la pàgina [Sobre](docs/about.md).
 
+Mentrestant podeu accedir a la còpia dels [quaderns del valencià oral](valencia-oral/).
+
 ## Documentació
 
 Per accedir a una documentació detallada dels projectes, dirigiu-vos a la pàgina de [Documentació](docs/index.md).
